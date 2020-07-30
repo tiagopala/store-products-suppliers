@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\StoreProductsSuppliers\\src\\Store.Business\\Store.Business.csproj": {}
+    "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\StoreProductsSuppliers\\src\\Store.Business\\Store.Business.csproj": {
+    "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\StoreProductsSuppliers\\src\\Store.Business\\Store.Business.csproj",
+        "projectUniqueName": "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj",
         "projectName": "Store.Business",
-        "projectPath": "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\StoreProductsSuppliers\\src\\Store.Business\\Store.Business.csproj",
+        "projectPath": "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj",
         "packagesPath": "C:\\Users\\ssbtpb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\StoreProductsSuppliers\\src\\Store.Business\\obj\\",
+        "outputPath": "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
