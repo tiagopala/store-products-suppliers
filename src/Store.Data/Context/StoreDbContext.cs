@@ -17,8 +17,8 @@ namespace Store.Data.Context
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            // Em caso de esquecermos de mapear alguma colum no banco de dados, esta coluna não será criada como nvarchar (tamanho máximo) e sim com um varchar(100)
-            // dessa forma otimizando o banco de dados 
+            // Em caso de esquecermos de mapear alguma coluna no banco de dados, esta coluna não será criada como nvarchar(max) e sim como um varchar(100)
+            // dessa forma, otimizando o banco de dados 
             foreach (var property in modelBuilder.Model.GetEntityTypes()
                 .SelectMany(e => e.GetProperties()
                 .Where(p => p.ClrType == typeof(string))))
