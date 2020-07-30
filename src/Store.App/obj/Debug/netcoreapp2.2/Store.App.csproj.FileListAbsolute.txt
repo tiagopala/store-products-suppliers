@@ -34,3 +34,39 @@ C:\Users\ssbtpb\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcorea
 C:\Users\ssbtpb\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.csproj.CopyComplete
 C:\Users\ssbtpb\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.dll
 C:\Users\ssbtpb\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.pdb
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\bin\Debug\netcoreapp2.2\Store.App.deps.json
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\bin\Debug\netcoreapp2.2\Store.App.runtimeconfig.json
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\bin\Debug\netcoreapp2.2\Store.App.runtimeconfig.dev.json
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\bin\Debug\netcoreapp2.2\Store.App.dll
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\bin\Debug\netcoreapp2.2\Store.App.pdb
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\bin\Debug\netcoreapp2.2\Store.App.Views.dll
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\bin\Debug\netcoreapp2.2\Store.App.Views.pdb
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\bin\Debug\netcoreapp2.2\Store.Business.dll
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\bin\Debug\netcoreapp2.2\Store.Data.dll
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\bin\Debug\netcoreapp2.2\Store.Data.pdb
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\bin\Debug\netcoreapp2.2\Store.Business.pdb
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.csprojAssemblyReference.cache
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.RazorAssemblyInfo.cache
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.RazorAssemblyInfo.cs
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.AssemblyInfoInputs.cache
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.AssemblyInfo.cs
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.TagHelpers.input.cache
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.TagHelpers.output.cache
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.RazorCoreGenerate.cache
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.RazorTargetAssemblyInfo.cache
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.RazorTargetAssemblyInfo.cs
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.Views.pdb
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.csproj.CopyComplete
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.dll
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.pdb

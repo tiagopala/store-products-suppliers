@@ -17,13 +17,15 @@ namespace Store.Data.Repository
         public async Task<Produto> ObterProdutoFornecedor(Guid id)
         {
             // Produtos Join Fornecedor (Include) Where Id == id informado
-            return await Db.Produtos.AsNoTracking().Include(f => f.Fornecedor)
+            return await Db.Produtos.AsNoTracking()
+                .Include(p => p.Fornecedor)
                 .FirstOrDefaultAsync(p => p.Id == id);
         }
 
         public async Task<IEnumerable<Produto>> ObterProdutosFornecedores()
         {
-            return await Db.Produtos.AsNoTracking().Include(f => f.Fornecedor)
+            return await Db.Produtos.AsNoTracking()
+                .Include(p => p.Fornecedor)
                 .OrderBy(p => p.Nome)
                 .ToListAsync();
         }
