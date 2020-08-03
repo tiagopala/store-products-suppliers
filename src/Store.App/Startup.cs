@@ -16,6 +16,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Store.Data.Context;
 using Store.Business.Interfaces;
 using Store.Data.Repository;
+using AutoMapper;
 
 namespace Store.App
 {
@@ -49,6 +50,8 @@ namespace Store.App
             services.AddDefaultIdentity<IdentityUser>()
                 .AddDefaultUI(UIFramework.Bootstrap4)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+
+            services.AddAutoMapper(typeof(Startup));
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 

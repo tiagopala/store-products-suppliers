@@ -19,12 +19,12 @@ using Store.App;
 #line default
 #line hidden
 #line 2 "C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\Views\_ViewImports.cshtml"
-using Store.App.Models;
+using Store.App.ViewModels;
 
 #line default
 #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7091c65830b0329e613be026ede8a57552863778", @"/Views/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"4669e630a72fed61d8f304249097cbe6ad88472a", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"c869c3d2ce2272cc779caac326783f21697fccc8", @"/Views/_ViewImports.cshtml")]
     public class Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

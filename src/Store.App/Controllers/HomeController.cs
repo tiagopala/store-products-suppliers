@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Store.App.Models;
+using Store.App.ViewModels;
 
 namespace Store.App.Controllers
 {

@@ -46,7 +46,6 @@ C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\bin\Debug\netc
 C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\bin\Debug\netcoreapp2.2\Store.Data.pdb
 C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\bin\Debug\netcoreapp2.2\Store.Business.pdb
 C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.csprojAssemblyReference.cache
-C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.csproj.CoreCompileInputs.cache
 C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.RazorAssemblyInfo.cache
 C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.RazorAssemblyInfo.cs
 C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.AssemblyInfoInputs.cache
