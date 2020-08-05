@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pqpa9vOsg9DXa6wyjBr6LimmyKWsJSupDriETlKrgWZGxMa1pZMJ99e3NQmx353KZflb9RmdcSpWp6EX50YFyA==",
+  "dgSpecHash": "D6TrWMia0SyA2442rSLF/Io1CSos1Tk1RH9s9+mns2swEpRN6ROUzEiJWY/4h4cjmpSS34M/o/crxL7Kn92qQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tiago Pala\\projects\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj",
+  "projectFilePath": "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",

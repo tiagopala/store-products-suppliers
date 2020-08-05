@@ -10,7 +10,6 @@ C:\Users\ssbtpb\projects\storeproductssuppliers\src\Store.App\bin\Debug\netcorea
 C:\Users\ssbtpb\projects\storeproductssuppliers\src\Store.App\bin\Debug\netcoreapp2.2\Store.Data.pdb
 C:\Users\ssbtpb\projects\storeproductssuppliers\src\Store.App\bin\Debug\netcoreapp2.2\Store.Business.pdb
 C:\Users\ssbtpb\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.csprojAssemblyReference.cache
-C:\Users\ssbtpb\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.csproj.CoreCompileInputs.cache
 C:\Users\ssbtpb\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.RazorAssemblyInfo.cache
 C:\Users\ssbtpb\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.RazorAssemblyInfo.cs
 C:\Users\ssbtpb\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.AssemblyInfoInputs.cache
@@ -69,3 +68,14 @@ C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netc
 C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.csproj.CopyComplete
 C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.dll
 C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.pdb
+C:\Users\ssbtpb\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.csproj.CoreCompileInputs.cache
+C:\Users\ssbtpb\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Create.g.cshtml.cs
+C:\Users\ssbtpb\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Delete.g.cshtml.cs
+C:\Users\ssbtpb\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Details.g.cshtml.cs
+C:\Users\ssbtpb\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Edit.g.cshtml.cs
+C:\Users\ssbtpb\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Index.g.cshtml.cs
+C:\Users\ssbtpb\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Create.g.cshtml.cs
+C:\Users\ssbtpb\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Delete.g.cshtml.cs
+C:\Users\ssbtpb\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Details.g.cshtml.cs
+C:\Users\ssbtpb\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Edit.g.cshtml.cs
+C:\Users\ssbtpb\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Index.g.cshtml.cs
