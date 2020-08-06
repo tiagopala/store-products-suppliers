@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj": {}
+    "C:\\Users\\Tiago Pala\\projects\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj": {
+    "C:\\Users\\Tiago Pala\\projects\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj",
+        "projectUniqueName": "C:\\Users\\Tiago Pala\\projects\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj",
         "projectName": "Store.Business",
-        "projectPath": "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj",
-        "packagesPath": "C:\\Users\\ssbtpb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.Business\\obj\\",
+        "projectPath": "C:\\Users\\Tiago Pala\\projects\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj",
+        "packagesPath": "C:\\Users\\Tiago Pala\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tiago Pala\\projects\\storeproductssuppliers\\src\\Store.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ssbtpb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tiago Pala\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -27,8 +27,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://af.scania.com/artifactory/api/nuget/sla-nuget-local": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {

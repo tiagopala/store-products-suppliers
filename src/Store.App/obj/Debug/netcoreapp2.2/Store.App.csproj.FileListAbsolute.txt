@@ -79,3 +79,15 @@ C:\Users\ssbtpb\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcorea
 C:\Users\ssbtpb\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Details.g.cshtml.cs
 C:\Users\ssbtpb\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Edit.g.cshtml.cs
 C:\Users\ssbtpb\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Store.App.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Create.g.cshtml.cs
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Delete.g.cshtml.cs
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Details.g.cshtml.cs
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Edit.g.cshtml.cs
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Index.g.cshtml.cs
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Create.g.cshtml.cs
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Delete.g.cshtml.cs
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Details.g.cshtml.cs
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Edit.g.cshtml.cs
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\_Endereco.g.cshtml.cs
