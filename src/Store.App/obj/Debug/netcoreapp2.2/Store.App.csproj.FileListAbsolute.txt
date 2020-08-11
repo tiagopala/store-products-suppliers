@@ -91,3 +91,5 @@ C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netc
 C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Edit.g.cshtml.cs
 C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Index.g.cshtml.cs
 C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\_Endereco.g.cshtml.cs
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\_DetalhesEndereco.g.cshtml.cs
+C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\_ListaProdutos.g.cshtml.cs
