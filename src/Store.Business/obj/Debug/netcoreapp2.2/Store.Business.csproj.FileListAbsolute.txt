@@ -11,7 +11,6 @@ C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.Business\bin\Debug
 C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.Business\bin\Debug\netcoreapp2.2\Store.Business.dll
 C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.Business\bin\Debug\netcoreapp2.2\Store.Business.pdb
 C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.Business\obj\Debug\netcoreapp2.2\Store.Business.csprojAssemblyReference.cache
-C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.Business\obj\Debug\netcoreapp2.2\Store.Business.csproj.CoreCompileInputs.cache
 C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.Business\obj\Debug\netcoreapp2.2\Store.Business.AssemblyInfoInputs.cache
 C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.Business\obj\Debug\netcoreapp2.2\Store.Business.AssemblyInfo.cs
 C:\Users\Tiago Pala\projects\storeproductssuppliers\src\Store.Business\obj\Debug\netcoreapp2.2\Store.Business.dll
