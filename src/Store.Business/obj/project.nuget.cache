@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kC/lhMgwqEJ+fr3LBadHAT0J41MuISDZEAVDBoZAbMxrfin/XfVet6X76hDLhzk9Ey4iPubV60+17PZw95R1Nw==",
+  "dgSpecHash": "cGWglcfxG0PmEEDgCvTUcLZMTwZDPiKR7P4g7RZ/SpYvNqtrNGig/Y/0vWiAWFshK3RfPryI4/BHGepM1+z9Vw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tiago Pala\\projects\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj",
+  "projectFilePath": "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Tiago Pala\\.nuget\\packages\\fluentvalidation\\9.1.2\\fluentvalidation.9.1.2.nupkg.sha512",
+    "C:\\Users\\ssbtpb\\.nuget\\packages\\fluentvalidation\\9.1.2\\fluentvalidation.9.1.2.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
