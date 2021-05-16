@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Tiago Pala\\source\\repos\\storeproductssuppliers\\src\\Store.App\\Store.App.csproj": {}
   },
   "projects": {
@@ -12,13 +13,26 @@
         "projectPath": "C:\\Users\\Tiago Pala\\source\\repos\\storeproductssuppliers\\src\\Store.App\\Store.App.csproj",
         "packagesPath": "C:\\Users\\Tiago Pala\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Tiago Pala\\source\\repos\\storeproductssuppliers\\src\\Store.App\\obj\\",
+=======
+    "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.App\\Store.App.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.App\\Store.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.App\\Store.App.csproj",
+        "projectName": "Store.App",
+        "projectPath": "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.App\\Store.App.csproj",
+        "packagesPath": "C:\\Users\\ssbtpb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.App\\obj\\",
+>>>>>>> 3610b6123b1ebaefc4318a63d6c8daa35f9a1fae
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tiago Pala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ssbtpb\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -27,14 +41,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://af.scania.com/artifactory/api/nuget/sla-nuget-local": {},
+          "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\Tiago Pala\\source\\repos\\storeproductssuppliers\\src\\Store.Data\\Store.Data.csproj": {
                 "projectPath": "C:\\Users\\Tiago Pala\\source\\repos\\storeproductssuppliers\\src\\Store.Data\\Store.Data.csproj"
+=======
+              "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.Data\\Store.Data.csproj": {
+                "projectPath": "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.Data\\Store.Data.csproj"
+>>>>>>> 3610b6123b1ebaefc4318a63d6c8daa35f9a1fae
               }
             }
           }
@@ -83,6 +103,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\Tiago Pala\\source\\repos\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -91,13 +112,23 @@
         "projectPath": "C:\\Users\\Tiago Pala\\source\\repos\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj",
         "packagesPath": "C:\\Users\\Tiago Pala\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Tiago Pala\\source\\repos\\storeproductssuppliers\\src\\Store.Business\\obj\\",
+=======
+    "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj",
+        "projectName": "Store.Business",
+        "projectPath": "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj",
+        "packagesPath": "C:\\Users\\ssbtpb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.Business\\obj\\",
+>>>>>>> 3610b6123b1ebaefc4318a63d6c8daa35f9a1fae
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tiago Pala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ssbtpb\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -106,7 +137,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://af.scania.com/artifactory/api/nuget/sla-nuget-local": {},
+          "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
@@ -143,6 +175,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\Tiago Pala\\source\\repos\\storeproductssuppliers\\src\\Store.Data\\Store.Data.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -151,13 +184,23 @@
         "projectPath": "C:\\Users\\Tiago Pala\\source\\repos\\storeproductssuppliers\\src\\Store.Data\\Store.Data.csproj",
         "packagesPath": "C:\\Users\\Tiago Pala\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Tiago Pala\\source\\repos\\storeproductssuppliers\\src\\Store.Data\\obj\\",
+=======
+    "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.Data\\Store.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.Data\\Store.Data.csproj",
+        "projectName": "Store.Data",
+        "projectPath": "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.Data\\Store.Data.csproj",
+        "packagesPath": "C:\\Users\\ssbtpb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.Data\\obj\\",
+>>>>>>> 3610b6123b1ebaefc4318a63d6c8daa35f9a1fae
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tiago Pala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ssbtpb\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -166,14 +209,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://af.scania.com/artifactory/api/nuget/sla-nuget-local": {},
+          "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\Tiago Pala\\source\\repos\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj": {
                 "projectPath": "C:\\Users\\Tiago Pala\\source\\repos\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj"
+=======
+              "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj": {
+                "projectPath": "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj"
+>>>>>>> 3610b6123b1ebaefc4318a63d6c8daa35f9a1fae
               }
             }
           }

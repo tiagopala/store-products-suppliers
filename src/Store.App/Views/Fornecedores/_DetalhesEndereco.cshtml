@@ -3,7 +3,7 @@
 <div>
     <div>
         <hr />
-        <h4>Endereco</h4>
+        <h4>Endereço</h4>
     </div>
 
     @if (Model != null)
@@ -58,7 +58,7 @@
                     @Html.DisplayFor(model => model.Endereco.Estado)
                 </td>
                 <td>
-                    <a data-modal="" asp-action="AtualizarEndereco" asp-route-id="@Model.Id" class="btn btn-info">
+                    <a supress-by-action="Edit" data-modal="" asp-action="AtualizarEndereco" asp-route-id="@Model.Id" class="btn btn-info">
                         <span title="Editar" class="fa fa-pencil-alt"></span>
                     </a>
                 </td>

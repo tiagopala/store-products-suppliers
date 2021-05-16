@@ -2,7 +2,11 @@
 using FluentValidation.Results;
 using Store.Business.Interfaces;
 using Store.Business.Models;
+<<<<<<< HEAD
 using Store.Business.Notifications;
+=======
+using Store.Business.Notificacoes;
+>>>>>>> 3610b6123b1ebaefc4318a63d6c8daa35f9a1fae
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
