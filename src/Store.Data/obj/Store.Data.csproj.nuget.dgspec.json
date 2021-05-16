@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tiago Pala\\projects\\storeproductssuppliers\\src\\Store.Data\\Store.Data.csproj": {}
+    "C:\\Users\\Tiago Pala\\source\\repos\\storeproductssuppliers\\src\\Store.Data\\Store.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tiago Pala\\projects\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj": {
+    "C:\\Users\\Tiago Pala\\source\\repos\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tiago Pala\\projects\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj",
+        "projectUniqueName": "C:\\Users\\Tiago Pala\\source\\repos\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj",
         "projectName": "Store.Business",
-        "projectPath": "C:\\Users\\Tiago Pala\\projects\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj",
+        "projectPath": "C:\\Users\\Tiago Pala\\source\\repos\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj",
         "packagesPath": "C:\\Users\\Tiago Pala\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tiago Pala\\projects\\storeproductssuppliers\\src\\Store.Business\\obj\\",
+        "outputPath": "C:\\Users\\Tiago Pala\\source\\repos\\storeproductssuppliers\\src\\Store.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
@@ -31,6 +31,7 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {}
           }
         },
@@ -42,6 +43,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "FluentValidation": {
               "target": "Package",
@@ -62,17 +64,17 @@
         }
       }
     },
-    "C:\\Users\\Tiago Pala\\projects\\storeproductssuppliers\\src\\Store.Data\\Store.Data.csproj": {
+    "C:\\Users\\Tiago Pala\\source\\repos\\storeproductssuppliers\\src\\Store.Data\\Store.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tiago Pala\\projects\\storeproductssuppliers\\src\\Store.Data\\Store.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Tiago Pala\\source\\repos\\storeproductssuppliers\\src\\Store.Data\\Store.Data.csproj",
         "projectName": "Store.Data",
-        "projectPath": "C:\\Users\\Tiago Pala\\projects\\storeproductssuppliers\\src\\Store.Data\\Store.Data.csproj",
+        "projectPath": "C:\\Users\\Tiago Pala\\source\\repos\\storeproductssuppliers\\src\\Store.Data\\Store.Data.csproj",
         "packagesPath": "C:\\Users\\Tiago Pala\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tiago Pala\\projects\\storeproductssuppliers\\src\\Store.Data\\obj\\",
+        "outputPath": "C:\\Users\\Tiago Pala\\source\\repos\\storeproductssuppliers\\src\\Store.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
@@ -89,9 +91,10 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\Users\\Tiago Pala\\projects\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj": {
-                "projectPath": "C:\\Users\\Tiago Pala\\projects\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj"
+              "C:\\Users\\Tiago Pala\\source\\repos\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj": {
+                "projectPath": "C:\\Users\\Tiago Pala\\source\\repos\\storeproductssuppliers\\src\\Store.Business\\Store.Business.csproj"
               }
             }
           }
@@ -104,6 +107,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",

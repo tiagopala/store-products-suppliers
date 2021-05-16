@@ -8,6 +8,8 @@ namespace Store.Business.Services
 {
     public class ProdutoService : BaseService, IProdutoService
     {
+        public ProdutoService(INotificador notificador) : base(notificador) { }
+
         public async Task Adicionar(Produto produto)
         {
             if (!ExecutarValidacao(new ProdutoValidation(), produto)) return;

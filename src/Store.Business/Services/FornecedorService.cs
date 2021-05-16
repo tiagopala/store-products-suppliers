@@ -8,6 +8,8 @@ namespace Store.Business.Services
 {
     public class FornecedorService : BaseService, IFornecedorService
     {
+        public FornecedorService(INotificador notificador) : base(notificador) { }
+
         public async Task Adicionar(Fornecedor fornecedor)
         {
             // Validar o estado da entidade
