@@ -1,8 +1,8 @@
-﻿using Store.Business.Models;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
+using Store.Business.Models;
 
 namespace Store.Business.Interfaces
 {

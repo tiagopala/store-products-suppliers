@@ -1,17 +1,14 @@
-﻿using Store.Business.Interfaces;
-using Store.Business.Models;
-using Store.Business.Models.Validations;
-using System;
+﻿using System;
 using System.Linq;
 using System.Threading.Tasks;
+using Store.Business.Interfaces;
+using Store.Business.Models;
+using Store.Business.Models.Validations;
 
 namespace Store.Business.Services
 {
     public class FornecedorService : BaseService, IFornecedorService
     {
-<<<<<<< HEAD
-        public FornecedorService(INotificador notificador) : base(notificador) { }
-=======
         private readonly IFornecedorRepository _fornecedorRepository;
         private readonly IEnderecoRepository _enderecoRepository;
 
@@ -22,7 +19,6 @@ namespace Store.Business.Services
             _fornecedorRepository = fornecedorRepository;
             _enderecoRepository = enderecoRepository;
         }
->>>>>>> 3610b6123b1ebaefc4318a63d6c8daa35f9a1fae
 
         public async Task Adicionar(Fornecedor fornecedor)
         {

@@ -2,7 +2,7 @@
 using Microsoft.Extensions.DependencyInjection;
 using Store.App.Extensions;
 using Store.Business.Interfaces;
-using Store.Business.Notifications;
+using Store.Business.Notificacoes;
 using Store.Business.Services;
 using Store.Data.Context;
 using Store.Data.Repository;

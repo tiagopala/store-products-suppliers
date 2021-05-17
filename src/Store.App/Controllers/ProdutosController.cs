@@ -28,6 +28,7 @@ namespace Store.App.Controllers
         public ProdutosController(IProdutoRepository produtoRepository,
                                   IFornecedorRepository fornecedorRepository,
                                   IMapper mapper,
+                                  IProdutoService produtoService,
                                   INotificador notificador) : base (notificador)
         {
             _produtoRepository = produtoRepository;

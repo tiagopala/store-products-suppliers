@@ -8,9 +8,7 @@ namespace Store.Business.Services
 {
     public class ProdutoService : BaseService, IProdutoService
     {
-<<<<<<< HEAD
         public ProdutoService(INotificador notificador) : base(notificador) { }
-=======
         private readonly IProdutoRepository _produtoRepository;
 
         public ProdutoService(IProdutoRepository produtoRepository,
@@ -18,7 +16,6 @@ namespace Store.Business.Services
         {
             _produtoRepository = produtoRepository;
         }
->>>>>>> 3610b6123b1ebaefc4318a63d6c8daa35f9a1fae
 
         public async Task Adicionar(Produto produto)
         {

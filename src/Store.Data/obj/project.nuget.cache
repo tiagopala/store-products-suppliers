@@ -1,16 +1,10 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "Up9s5St/NbWpiB/aNqhUb4dWnHYjU9G7EQu0MT++EhXHjpF1MkKgVw5sxG7uy7aPQl+3jRCT9/T7DtWWJSXDAA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Tiago Pala\\source\\repos\\storeproductssuppliers\\src\\Store.Data\\Store.Data.csproj",
-=======
-  "dgSpecHash": "C9GxZT2fCXFH0yyoYg3z4j4JFJFfkxsYM5Mmc1xQW4zO1yAFflRw7/53OIuKjvCzEoJCfta3uBk2Zad2T8ZHyg==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\ssbtpb\\projects\\storeproductssuppliers\\src\\Store.Data\\Store.Data.csproj",
->>>>>>> 3610b6123b1ebaefc4318a63d6c8daa35f9a1fae
   "expectedPackageFiles": [
-    "C:\\Users\\ssbtpb\\.nuget\\packages\\fluentvalidation\\9.1.2\\fluentvalidation.9.1.2.nupkg.sha512",
+    "C:\\Users\\Tiago Pala\\.nuget\\packages\\fluentvalidation\\9.1.2\\fluentvalidation.9.1.2.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.entityframeworkcore\\2.2.0\\microsoft.entityframeworkcore.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.entityframeworkcore.abstractions\\2.2.0\\microsoft.entityframeworkcore.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.entityframeworkcore.analyzers\\2.2.0\\microsoft.entityframeworkcore.analyzers.2.2.0.nupkg.sha512",
@@ -51,7 +45,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.io\\4.1.0\\system.io.4.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.linq\\4.1.0\\system.linq.4.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.linq.expressions\\4.1.0\\system.linq.expressions.4.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.linq.queryable\\4.0.1\\system.linq.queryable.4.0.1.nupkg.sha512",
+    "C:\\Users\\Tiago Pala\\.nuget\\packages\\system.linq.queryable\\4.0.1\\system.linq.queryable.4.0.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.objectmodel\\4.0.12\\system.objectmodel.4.0.12.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection\\4.1.0\\system.reflection.4.1.0.nupkg.sha512",
